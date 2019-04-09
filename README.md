@@ -1,5 +1,5 @@
-The readme.
+## The readme
 
-# To serve:
+
+### To serve:
 `$ npm start`
-`
