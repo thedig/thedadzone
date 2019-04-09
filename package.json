@@ -1,0 +1,20 @@
+{
+  "name": "thedadzone",
+  "version": "1.0.0",
+  "description": "The readme.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedig/thedadzone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedig/thedadzone/issues"
+  },
+  "homepage": "https://github.com/thedig/thedadzone#readme"
+}
