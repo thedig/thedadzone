@@ -4,6 +4,7 @@
   "description": "The readme.",
   "main": "app.js",
   "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/thedig/thedadzone/issues"
   },
-  "homepage": "https://github.com/thedig/thedadzone#readme"
+  "homepage": "https://github.com/thedig/thedadzone#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.3.0"
+  }
 }
